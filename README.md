@@ -5,4 +5,4 @@ It has easy and understandable structure, so that it can be edited in future.
 
 ##Live Project
 
-https://harivansh34.github.io/Single-page-CV-HTML/
+https://harivansh34.github.io/Single-page-CV-HTML
