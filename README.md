@@ -1,7 +1,11 @@
 # Single Page CV
 
-A single page CV built using HTML and minimal CSS.
+This is a solution to the Single Page CV project from roadmap.sh.
+
+## Project Page
+
+https://roadmap.sh/projects/single-page-cv
 
 ## Live Project
 
-Project URL: https://harivansh34.github.io/Single-page-CV-HTML/
+https://harivansh34.github.io/Single-page-CV-HTML/
