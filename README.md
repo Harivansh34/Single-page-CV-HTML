@@ -1,7 +1,7 @@
 # Single Page CV
 
-## Project Repository
-https://github.com/Harivansh34/Single-page-CV-HTML
+A single page CV built using HTML and minimal CSS.
 
 ## Live Project
-https://harivansh34.github.io/Single-page-CV-HTML
+
+[View Live Project](https://harivansh34.github.io/Single-page-CV-HTML)
